@@ -11,7 +11,7 @@ export default function QrCode() {
   const handleSubmit = (e) => {
     e.preventDefault();
     setLoading(true);
-    axios.post("http://localhost:5000/scanQr", { url: url }).then((res) => {
+    axios.post("https://pine-qr-code-generator.onrender.com/scanQr", { url: url }).then((res) => {
       setQrCode(res.data);
       setLoading(false);
     });
