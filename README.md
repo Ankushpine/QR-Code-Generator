@@ -6,7 +6,7 @@ Experience seamless QR code creation with our React and Node.js QR Code Generato
 ### Hosted Link : https://pine-qr-generator.netlify.app
 <br/>
 
-<img src="./image/QR.png"  width="450" height="250" >
+<img src="./image/QR.png"  width="650" height="450" >
 
 
 ### Features:
