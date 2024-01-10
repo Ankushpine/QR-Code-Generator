@@ -3,7 +3,7 @@
 Experience seamless QR code creation with our React and Node.js QR Code Generator. Crafted for simplicity, this tool allows you to generate QR codes for any link effortlessly. Download your personalized QR code instantly, making it a versatile solution for integrating dynamic links into your projects, documents, or promotional material.
 
 
-### Hosted Link : 
+### Hosted Link : https://pine-qr-generator.netlify.app
 <br/>
 
 <img src="./image/QR.png"  width="450" height="250" >
